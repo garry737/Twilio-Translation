@@ -1,5 +1,5 @@
 # Twilio-Translation
-This application was a group project developed for MLH (Major League Hacking) Local Hack Day October 12 2019. It is a project implementing Twilio written in Javascript. We ran our javascript code through the online tool Glitch and used the Google Cloud Translate API as our translation tool.
+This application was a group project developed for MLH (Major League Hacking) Local Hack Day October 12 2019. It is a project implementing Twilio as a PaaS written in Javascript. We ran our javascript code through the online tool Glitch and used the Google Cloud Translate API as our translation tool.
 
 The inspiration behind choosing this topic was to help people who travel overseas that might have cellular data but not an internet collection. This service allows them to still translate phrases for daily and emergency use.
 
