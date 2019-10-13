@@ -3,7 +3,7 @@ This application was a group project developed for MLH (Major League Hacking) Lo
 
 The project allows users to text a number with a language code and a sentence to have it translated. The format for using this program is as such.
 
-[LanguageCode] "String"
+> [LanguageCode] "String"
   
 Language Code follows [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
