@@ -8,3 +8,7 @@ The project allows users to text a number with a language code and a sentence to
 Language can follow [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) or the English name of the language.
 
 Note: Since we are using Twilio Free Trial, only authorized numbers can use this service
+
+### Screenshots
+
+<img src= "https://github.com/garry737/Twilio-Translation/blob/master/Screenshots/Trilio%20Translator%20Screenshot.jpg">
