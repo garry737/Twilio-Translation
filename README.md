@@ -11,4 +11,4 @@ Note: Since we are using Twilio Free Trial, only authorized numbers can use this
 
 ### Screenshots
 
-<img src= "https://github.com/garry737/Twilio-Translation/blob/master/Screenshots/Trilio%20Translator%20Screenshot.jpg">
+<img src= "https://github.com/garry737/Twilio-Translation/blob/master/Screenshots/Trilio%20Translator%20Screenshot.jpg" width="35%">
